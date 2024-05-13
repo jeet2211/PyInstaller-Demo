@@ -1,7 +1,7 @@
 # Instructions for Compiling Python Script into Standalone Binary with Nuitka
 
 ## 1. Install Nuitka
-python -m pip install nuitka# Instructions for Compiling Python Script into Standalone Binary with Nuitka
+python -m pip install nuitka
 
 
 ## 2. Check Nuitka Version
